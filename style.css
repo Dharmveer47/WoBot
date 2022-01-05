@@ -124,7 +124,11 @@ body {
 .btn button:active{
   background-color: #0060e3;
 }
-
+.footer{
+  margin-top: 50px;
+  color: var(--Text);
+  /* border: 1px solid yellow; */
+}
 @media screen and (max-width:720px) {
 
   .card{
@@ -134,3 +138,4 @@ body {
     width: 250px;
   }
 }
+
