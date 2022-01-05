@@ -17,7 +17,7 @@ body {
   box-sizing: border-box;
   font-family: sans-serif;
   background-blend-mode: darken;
-  background-color: #c5c5c5;
+  background-color: #f7f7f7;
 }
 .container {
   width: 80%;
@@ -39,7 +39,7 @@ body {
   
   padding-bottom: 30px;
    flex-direction: column;
-  border: 1px solid rebeccapurple;
+  /* border: 1px solid rebeccapurple; */
   background: #FFFFFF;
   box-shadow: 4px 4px 20px rgba(157, 157, 157, 0.12);
   border-radius: 15px;
